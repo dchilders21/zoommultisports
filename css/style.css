@@ -380,8 +380,8 @@ textarea:focus {
 	text-align:center;
 }
 .gm_new_service_box{
-	text-align:center;
-	box-shadow:0px 0px 10px black;
+	/*text-align:center;*/
+	/*box-shadow:0px 0px 10px black;*/
 	/*padding:10px;*/
 	margin:10px;
 	height:550px;
@@ -389,7 +389,7 @@ textarea:focus {
 .gm_header_service_box{
 	display:flex;
 	justify-content: flex-start;
-	margin-left:10px;
+	/*margin-left:10px;*/
 }
 .gm_service_box_body{
 	width:100%;
@@ -420,6 +420,11 @@ textarea:focus {
     -ms-transition: all 0.3s;
     -o-transition: all 0.3s;
     transition: all 0.3s;
+}
+.gm_service_box_container{
+	padding-top:60px;
+	padding-bottom:0;
+	margin-bottom:0;
 }
 .gm_service_box_list{
 	width:100%;
@@ -485,6 +490,7 @@ textarea:focus {
 .gm_service_box_text{
 	display:flex;
 	justify-content: center;
+	color:#e83f53;
 	div{
 		display:flex;
 		justify-content: center;
