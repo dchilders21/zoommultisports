@@ -379,6 +379,22 @@ textarea:focus {
 	width:100%;
 	text-align:center;
 }
+.gm_new_service_box{
+	/*text-align:center;*/
+	/*box-shadow:0px 0px 10px black;*/
+	/*padding:10px;*/
+	margin:10px;
+	height:550px;
+}
+.gm_header_service_box{
+	display:flex;
+	justify-content: flex-start;
+	/*margin-left:10px;*/
+}
+.gm_service_box_body{
+	width:100%;
+
+}
 .gm_service_img{
 	float:left;
 	width:100%;
@@ -404,6 +420,16 @@ textarea:focus {
     -ms-transition: all 0.3s;
     -o-transition: all 0.3s;
     transition: all 0.3s;
+}
+.gm_service_box_container{
+	padding-top:60px;
+	padding-bottom:0;
+	margin-bottom:0;
+}
+.gm_service_box_list{
+	width:100%;
+	text-align:left;
+	padding-top:10px;
 }
 .gm_service_box:hover .gm_service_img:after{
 	opacity:1;
@@ -453,6 +479,23 @@ textarea:focus {
 	float:left;
 	width:100%;
 	color:#e83f53;
+}
+.gm_service_box_price{
+	display:flex;
+	justify-content: center;
+	font-weight: bold;
+	margin-top:-5px;
+	color:#e83f53;
+}
+.gm_service_box_text{
+	display:flex;
+	justify-content: center;
+	color:#e83f53;
+	div{
+		display:flex;
+		justify-content: center;
+		width:100%;
+	}
 }
 /*---------- classes css end -------*/
 /*---------- Counter css start -------*/
@@ -691,7 +734,7 @@ textarea:focus {
 	float:left;
 	width:100%;
 	font-size:80px;
-	margin:30px 0px; 
+	margin:30px 0px;
 }
 .gm_price_box h1 sup{
     font-size: 20px;
@@ -1394,7 +1437,7 @@ textarea:focus {
 }
 
 @media (max-width: 380px) {
-	
+
 .gm_download_box ul li{
     margin-right: 0px;
 	margin:10px 0px;
