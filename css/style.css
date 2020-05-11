@@ -212,7 +212,7 @@ textarea:focus {
     transition: all 0.3s;
 }
 .gm_menu ul li:hover a, .gm_menu ul li a.active {
-	color: #e83f53;
+	color: #f05a24;
 	-webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -245,10 +245,10 @@ textarea:focus {
     line-height: 48px;
 	padding:0px 20px;
 	min-width:150px;
-	background-color:#e83f53;
+	background-color:#f05a24;
 	color:#ffffff;
 	text-transform:uppercase;
-	border:1px solid #e83f53;
+	border:1px solid #f05a24;
 	text-align:center;
 	-webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
@@ -258,8 +258,8 @@ textarea:focus {
 }
 .gm_btn:hover, .gm_btn:focus{
 	background-color:#ffffff;
-	color:#e83f53;
-	border:1px solid #e83f53;
+	color:#f05a24;
+	border:1px solid #f05a24;
 	outline:none;
 	box-shadow:none;
 	-webkit-transition: all 0.3s;
@@ -280,7 +280,7 @@ textarea:focus {
 	text-transform:capitalize;
 }
 .gm_heading h1 a{
-	color:#e83f53;
+	color:#f05a24;
 }
 .gm_heading p{
 	float:left;
@@ -321,8 +321,8 @@ textarea:focus {
 	float:left;
 	width:auto;
 	font-size:15px;
-	color:#e83f53;
-	border-bottom:1px dotted #e83f53;
+	color:#f05a24;
+	border-bottom:1px dotted #f05a24;
 	text-transform:uppercase;
 }
 .gm_bnr_form{
@@ -478,19 +478,19 @@ textarea:focus {
 .gm_service_info span{
 	float:left;
 	width:100%;
-	color:#e83f53;
+	color:#f05a24;
 }
 .gm_service_box_price{
 	display:flex;
 	justify-content: center;
 	font-weight: bold;
 	margin-top:-5px;
-	color:#e83f53;
+	color:#f05a24;
 }
 .gm_service_box_text{
 	display:flex;
 	justify-content: center;
-	color:#e83f53;
+	color:#f05a24;
 	div{
 		display:flex;
 		justify-content: center;
@@ -525,7 +525,7 @@ textarea:focus {
     height: 80px;
     line-height: 80px;
     border-radius: 50px;
-    background-color: #e83f53;
+    background-color: #f05a24;
 }
 .gm_counter h2{
     float: left;
@@ -583,7 +583,7 @@ textarea:focus {
     transition: all 0.3s;
 }
 .gm_blog_info ul li a:hover{
-	color:#e83f53;
+	color:#f05a24;
 	-webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -591,7 +591,7 @@ textarea:focus {
     transition: all 0.3s;
 }
 .gm_blog_info ul li a i{
-	color:#e83f53;
+	color:#f05a24;
 	margin-right:5px;
 }
 .gm_blog_info h3{
@@ -689,7 +689,7 @@ textarea:focus {
 .gm_price_box:hover{
 	background-color: #ffffff;
     border: 1px solid transparent;
-	border-top:1px solid #e83f53;
+	border-top:1px solid #f05a24;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -723,7 +723,7 @@ textarea:focus {
 }
 .gm_price_box:hover h5{
 	background-color:#ffffff;
-	border-color:#e83f53;
+	border-color:#f05a24;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -799,7 +799,7 @@ textarea:focus {
     right: 0px;
     width: 100%;
     margin: 0px auto;
-    background-color: #e83f53;
+    background-color: #f05a24;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -859,7 +859,7 @@ textarea:focus {
 }
 .gm_team_info ul li a:hover{
     background-color: #ffffff;
-    color: #e83f53;
+    color: #f05a24;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -937,7 +937,7 @@ textarea:focus {
 .gm_testimonial_wrapper{
 	float:left;
 	width:100%;
-	background-image:url('../images/content/testimonials.jpg');
+	background-image:url('../images/content/testimonials_2.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -972,7 +972,7 @@ textarea:focus {
     background: #ffffff;
 }
 .gm_testimonial_box .owl-theme .owl-dots .owl-dot.active span, .gm_testimonial_box .owl-theme .owl-dots .owl-dot:hover span {
-    background: #e83f53;
+    background: #f05a24;
 }
 /*---------- Testimonial css end -------*/
 /*---------- FAQ css start -------*/
@@ -1056,8 +1056,8 @@ textarea:focus {
     background-size: cover;
 }
 .gm_footer_logo{
-	float:left;
-	width:100%;
+	width: 300px;
+    margin: 0 auto;
 }
 .gm_footer_logo img{
 	display:inline-block;
@@ -1100,7 +1100,7 @@ textarea:focus {
     text-transform: capitalize;
 }
 .gm_footer_menu ul li a:hover{
-	color:#e83f53;
+	color:#f05a24;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -1126,7 +1126,7 @@ textarea:focus {
     transition: all 0.3s;
 }
 .gm_footer_address p a:hover{
-	color:#e83f53;
+	color:#f05a24;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -1135,7 +1135,7 @@ textarea:focus {
 }
 .gm_footer_address p i{
 	padding-right:5px;
-	color:#e83f53;
+	color:#f05a24;
 }
 .gm_footer_bottom_wrapper{
 	float:left;
@@ -1177,7 +1177,7 @@ textarea:focus {
 }
 .gm_footer_links ul li a:hover{
 	background-color:#ffffff;
-	color:#e83f53;
+	color:#f05a24;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -1261,7 +1261,7 @@ textarea:focus {
     height: 30px;
     font-size: 16px;
     color: #ffffff;
-    background-color: #e83f53;
+    background-color: #f05a24;
     border-radius: 3px;
 }
 .gm_menu_btn:hover, .gm_menu_btn:focus{
@@ -1276,7 +1276,7 @@ textarea:focus {
     left: 0px;
     top: 0px;
 	bottom:0px;
-    background-color: #e83f53;
+    background-color: #f05a24;
 	-webkit-transform: translateX(-100%);
     -moz-transform: translateX(-100%);
     -ms-transform: translateX(-100%);
@@ -1315,7 +1315,7 @@ textarea:focus {
     color: #ffffff;
 }
 .gm_menu ul li a.active {
-    color: #e83f53;
+    color: #f05a24;
 	background-color:#ffffff;
 }
 .gm_header_info{
@@ -1449,4 +1449,53 @@ textarea:focus {
 
 .zoom_offset {
 	margin-left: 8%;
+}
+
+.services-header {
+	width: 100%; 
+	text-align: center; 
+	margin-bottom: 60px;
+	text-transform: capitalize;
+}
+
+.service_box {
+	background-color: #fff;
+	margin: 0px 20px;
+}
+
+.service_box h3, .service_box p {
+	padding-left: 20px;
+	color: #000;
+}
+
+.service_box .price {
+	padding: 40px;
+}
+
+.service_box .price p {
+	padding-left: 0px;
+	text-align: center;
+	margin-bottom: 0px;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+
+.service_box .price p.dollar-amount {
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.service_box .service_list > div {
+	background-color: #f7f7f7;
+	border-bottom: solid 1px #FFF;
+	padding: 10px 0px;
+}
+
+.service_box .service_list > div p {
+	margin-bottom: 0px;
+}
+
+.services {
+	display: flex;
+	margin-bottom: 40px;
 }
