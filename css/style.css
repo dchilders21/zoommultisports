@@ -1466,6 +1466,7 @@ textarea:focus {
 .service_box {
 	background-color: #fff;
 	margin: 0px 20px;
+	flex: 1;
 }
 
 .service_box h3, .service_box p {
@@ -1475,13 +1476,13 @@ textarea:focus {
 
 .service_box .prices {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	flex-wrap: wrap;
 	justify-content: center;
 }
 
 .service_box .price {
-	padding: 40px;
+	padding: 40px 0px;
 }
 
 .service_box .price p {
