@@ -622,7 +622,8 @@ textarea:focus {
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
     -o-transition: all 0.3s;
-    transition: all 0.3s;
+	transition: all 0.3s;
+	margin-bottom: 30px;
 }
 .gm_blog_img:after{
 	content:"";
